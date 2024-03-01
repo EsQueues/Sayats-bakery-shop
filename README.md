@@ -1,6 +1,6 @@
 # BAKERY SHOP
 
-![amazona](/frontend/public/images/amazona.png)
+![Uploading image.png…]()
 
 # Bakery shop
 
