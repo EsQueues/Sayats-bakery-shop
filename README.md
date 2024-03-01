@@ -7,17 +7,17 @@
 
 
 
-## Demo Website
+## Link
 
 -  Render : [https://ruspekarnya.onrender.com/](https://ruspekarnya.onrender.com/)
 
 ## Stack
 
+- Node & Express: Web API, Body Parser, File Upload, JWT
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
 - Context API: Store, Reducers, Actions
-- Node & Express: Web API, Body Parser, File Upload, JWT
 - MongoDB: Mongoose, Aggregation
-- React: Components, Props, Events, Hooks, Router
+- React: Components, Hooks, Router
 - Development:  Git, Github,
 - Deployment: Heroku
 
@@ -60,7 +60,38 @@ $ npm start
 ### 6. Admin Login
 
 - Run http://localhost:3000/signin
+- Email: admin@example.com 
+- Password: 123456
 - Enter admin email and password and click signin
+
+  
+
+## Application guide
+
+
+### 1. Sign in / Sign up / Forget password:
+Sign in:
+![plot](Pekarnya/mern-amazona/frontend/public/images/sign-in.png)
+Sign up:
+![plot](Pekarnya/mern-amazona/frontend/public/images/sign-up.png)
+Forget password:
+![plot](Pekarnya/mern-amazona/frontend/public/images/forgetpassword.png)
+### 2. Add product to basket and order / Edit profile / Find by sorting or searching:
+Basket:
+![plot](Pekarnya/mern-amazona/frontend/public/images/korzina.png)
+Profile:
+![plot](Pekarnya/mern-amazona/frontend/public/images/profile.png)
+### 3. Admin panel:
+Create product:
+![plot](Pekarnya/mern-amazona/frontend/public/images/createproductadmin.png)
+History of orders:
+![plot](Pekarnya/mern-amazona/frontend/public/images/historyofsalesadmin.png)
+Crud operations with users:
+![plot](Pekarnya/mern-amazona/frontend/public/images/useradmin.png)
+
+
+
+
 
 
 
