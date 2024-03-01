@@ -87,7 +87,7 @@ Create product:
 History of orders:
 ![plot](Pekarnya/mern-amazona/frontend/public/images/historyofsalesadmin.png)
 Crud operations with users:
-![plot](Pekarnya/mern-amazona/frontend/public/images/useradmin.png)
+![plot](Pekarnya/mern-amazona/frontend/public/images/usersadmin.png)
 
 
 
