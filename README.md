@@ -1,7 +1,6 @@
 # BAKERY SHOP
 
-![Uploading image.png…]()
-
+![plot](Pekarnya/mern-amazona/frontend/public/images/amazona.png)
 
 # Bakery shop
 
